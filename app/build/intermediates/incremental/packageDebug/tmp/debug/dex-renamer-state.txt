@@ -1,4 +1,4 @@
-#Sun Mar 03 05:42:33 MSK 2024
+#Sun Mar 03 06:13:13 MSK 2024
 base.0=C\:\\Users\\kolas\\Desktop\\ACtivititest\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\kolas\\Desktop\\ACtivititest\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\kolas\\Desktop\\ACtivititest\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

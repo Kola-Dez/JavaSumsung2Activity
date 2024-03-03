@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 String patronymicText = patronymic.getText().toString();
                 String agesText = ages.getText().toString();
 
-                Intent intent = new Intent(MainActivity.this, SexondActivity.class);
+                Intent intent = new Intent(MainActivity.this, SecondActivity.class);
 
                 // Pass data to SecondActivity
                 intent.putExtra("s", surnameText);
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void startNewActivity(View v) {
-        Intent intent = new Intent(this, SexondActivity.class);
+        Intent intent = new Intent(this, SecondActivity.class);
         startActivity(intent);
     }
 }

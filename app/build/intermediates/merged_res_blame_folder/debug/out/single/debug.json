@@ -8,6 +8,10 @@
         "source": "C:\\Android\\gradle\\daemon\\8.2\\com.example.activititest.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.activititest.app-merged_res-31:/layout_activity_second.xml.flat",
+        "source": "com.example.activititest.app-main-33:/layout/activity_second.xml"
+    },
+    {
         "merged": "C:\\Android\\gradle\\daemon\\8.2\\com.example.activititest.app-merged_res-31:\\layout_activity_main.xml.flat",
         "source": "C:\\Android\\gradle\\daemon\\8.2\\com.example.activititest.app-main-33:\\layout\\activity_main.xml"
     },
@@ -50,10 +54,6 @@
     {
         "merged": "C:\\Android\\gradle\\daemon\\8.2\\com.example.activititest.app-merged_res-31:\\layout_activity_sexond.xml.flat",
         "source": "C:\\Android\\gradle\\daemon\\8.2\\com.example.activititest.app-main-33:\\layout\\activity_sexond.xml"
-    },
-    {
-        "merged": "com.example.activititest.app-merged_res-31:/layout_activity_sexond.xml.flat",
-        "source": "com.example.activititest.app-main-33:/layout/activity_sexond.xml"
     },
     {
         "merged": "C:\\Android\\gradle\\daemon\\8.2\\com.example.activititest.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",

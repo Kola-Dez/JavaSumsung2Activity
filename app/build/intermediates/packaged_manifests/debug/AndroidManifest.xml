@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.ACtivitiTest" >
         <activity
+            android:name="com.example.activititest.SecondActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.activititest.SexondActivity"
             android:exported="false" />
         <activity

@@ -19,7 +19,7 @@ id surname
 id surnameTextView
 id textView
 layout activity_main
-layout activity_sexond
+layout activity_second
 mipmap ic_launcher
 mipmap ic_launcher_round
 string ImageIcon
