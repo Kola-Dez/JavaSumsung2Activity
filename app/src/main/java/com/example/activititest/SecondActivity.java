@@ -26,13 +26,11 @@ public class SecondActivity extends AppCompatActivity {
 
         Intent inte = getIntent();
 
-        // Retrieve data from intent
         String surname = inte.getStringExtra("s");
         String nameText = inte.getStringExtra("n");
         String patronymicText = inte.getStringExtra("p");
         String agesText = inte.getStringExtra("a");
 
-        // Set data to TextViews
         sname.setText("Surname: " + surname);
         name.setText("Name: " + nameText);
         patr.setText("Patronymic: " + patronymicText);
@@ -41,7 +39,6 @@ public class SecondActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Return to MainActivity
                 Intent intent = new Intent(SecondActivity.this, MainActivity.class);
                 startActivity(intent);
             }
