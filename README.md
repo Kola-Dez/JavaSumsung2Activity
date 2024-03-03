@@ -1,0 +1,1 @@
+"# JavaSumsung2Activity" 
