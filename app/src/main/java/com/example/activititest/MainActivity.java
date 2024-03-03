@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent intent = new Intent(MainActivity.this, SecondActivity.class);
 
-                // Pass data to SecondActivity
                 intent.putExtra("s", surnameText);
                 intent.putExtra("n", namesText);
                 intent.putExtra("p", patronymicText);
