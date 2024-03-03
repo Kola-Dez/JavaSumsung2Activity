@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color line
+color red
+color white
+drawable at1w8
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable player
+id age
+id ageS
+id btn
+id button2
+id name
+id patr
+id patron
+id surname
+id surnameTextView
+id textView
+layout activity_main
+layout activity_sexond
+mipmap ic_launcher
+mipmap ic_launcher_round
+string ImageIcon
+string app_name
+style Base.Theme.ACtivitiTest
+style Theme.ACtivitiTest
+xml backup_rules
+xml data_extraction_rules
